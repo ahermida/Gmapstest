@@ -13,6 +13,9 @@ h3 {
   line-height: 1.2;
 }
 
+.hide {
+  visibility: hidden;
+}
 
 /* Always set the map height explicitly to define the size of the div
  * element that contains the map. */
