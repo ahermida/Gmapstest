@@ -1,0 +1,14 @@
+{
+  "name": "shakenlocate",
+  "version": "1.0.0",
+  "description": "Shake your phone to locate yourself!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alicia Lebby",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

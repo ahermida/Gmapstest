@@ -1,0 +1,29 @@
+body {
+  line-height: 1.6;
+  font-size: 18px;
+  color: #444;
+  padding: 0 10px;
+}
+h1,
+h2,
+h3 {
+
+  margin: auto 40;
+  line-height: 1.2;
+}
+
+.hide {
+  display: none;
+}
+
+/* Always set the map height explicitly to define the size of the div
+ * element that contains the map. */
+#map {
+  height: 100%;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+}
